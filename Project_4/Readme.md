@@ -2,7 +2,7 @@
 
 ### Order of concepts:
 1. Kernels and how do we decide the number of kernels?
->> aknsckn
+    oaicnoinc
 2. 3x3 Convolutions
 3. Receptive Field
 4. How many layers
