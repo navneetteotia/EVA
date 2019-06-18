@@ -1,4 +1,4 @@
-Colab Link to 7B: 
+Colab Link to 7B: https://colab.research.google.com/drive/1VkpKAGihwnZqze_7zc9gQd-5k4kafM39
 
 ## Assignment 7A
 
